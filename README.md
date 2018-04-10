@@ -1,0 +1,2 @@
+# MyGitProject
+Understanding Git functionality
